@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mt05{
+    margin-top: 5px;
+}
+.mt1{
+    margin-top: 10px;
+}
+.mt2{
+    margin-top: 20px;
+}
+.mt3{
+    margin-top: 30px;
+}
+.mt4{
+    margin-top: 40px;
+}
+.mt15{
+    margin-top: 15px;
+}
+.mt25{
+    margin-top: 25px;
+}
+.mt5{
+    margin-top: 50px;
+}
+
+.div{
+    background-image: url(dd.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.div2{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 90px 0;
+
+}
+
+.div3{
+    display: inline-block;
+    width: 24%;
+    height: 450px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 30px;
+}
+.div3:hover{
+    background-color: greenyellow;
+    color: #fff;
+}
+
+.title{
+    opacity: 0.5;
+    font-size: 20px;
+}
+.subtitle{
+    font-size: 15px;
+}
+.column img{
+    width: 100%;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.tugma{
+    padding: 10px 25px;
+    background: none;
+    color: #fff;
+    font-size: 100%;
+    border-radius: 30px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.tugma:hover{
+    background-color: rgb(103, 152, 226);
+    color: rgb(255, 255, 255);
+    border: 2px solid #fff;
+
+}

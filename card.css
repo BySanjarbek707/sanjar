@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mt05{
+    margin-top: 5px;
+}
+.mt1{
+    margin-top: 10px;
+}
+.mt2{
+    margin-top: 20px;
+}
+.mt3{
+    margin-top: 30px;
+}
+.mt4{
+    margin-top: 40px;
+}
+.mt15{
+    margin-top: 15px;
+}
+.mt25{
+    margin-top: 25px;
+}
+.mt5{
+    margin-top: 50px;
+}
+
+.bg{
+    background-size: cover;
+    height: 100vh;
+}
+
+.row{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 90px 0;
+}
+
+.calumn{
+    display: inline-block;
+    width: 90%;
+    height: 450px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 3%;
+}
+.colum{ 
+    display: inline-block;
+    width: 100%;
+    height: 225px;
+    margin-top: auto;
+    background-color: rgb(208, 255, 36);
+    margin-right: 595px;
+    border-radius: 3%;
+    
+}
+
+
+
+.column:hover{
+    background-color: rgb(224, 143, 20);
+    color: #fff;
+    margin-top:     -30px;
+}
+
+.title{
+    opacity: 0.5;
+    font-size: 20px;
+}
+.subtitle{
+    font-size: 15px;
+}
+.rasm img{
+    width: 25%;
+    height: 125%;
+    padding: 20px;
+    border-radius: 15%;
+    margin-left: -700px;
+    margin-top: -200px;
+}
+
+.button{
+    padding: 10px 25px;
+    background: none;
+    color: #fff;
+    font-size: 100%;
+    border-radius: 30px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 80px;
+}
+.button:hover{
+    background-color: rgb(103, 152, 226);
+    color: rgb(255, 255, 255);
+    border: 2px solid #fff;
+
+}
+.lorem{
+    color: rgb(103, 152, 226);
+    font-size: 20px;
+    text-align: left;
+    margin-top: -6px;
+    opacity: 95%;
+    margin-left: 15px;
+
+}
+.sl{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(103, 152, 226);
+    opacity: 95%;
+    margin-left: 15px;
+    
+}
+.alex{
+    border-color: aqua;
+    color: #fff;
+    font-size: 45px;
+}
+.sal{
+    position: relative;
+    top: 70px;
+    font-size: 22px;
+    text-align: left;
+    margin-left: 580px;
+    opacity: 90%;
+    
+
+}
+.alex{
+    margin-top: -25%;
+}
+.fa-brands{
+    font-size: 40px;
+}
+.salom{
+   margin-top: -115px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 200px;
+    opacity: 85%;
+    
+}
